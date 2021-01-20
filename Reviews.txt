@@ -1,0 +1,33 @@
+WIKIPEDIA:
+I still like this site for the same reasons that I mentioned before. However, after learning how to design webpages, I have come to have a new
+appreciation for minimalist, simplistic design. After going through this class, I now know how out-of-hand webpage design can get. So, I now
+like Wikipedia's design much more, whereas I previously criticized it. 
+
+YOUTUBE:
+Like with Wikipedia, after getting some experience myself I now have even more appreciation for website designs like Youtube. However, my
+main complaint with Youtube before was that it had some very annoying bugs, which are still present. So, not much has changed with my opinion
+of this site.
+
+TWITCH:
+I didn't have many complaints about this site initially. My main issues were with some of the layout decisions that they'd made at the time. 
+Interestingly, it seems like those layout changes that bugged me have been reverted. Upon looking at the site now though, I do notice some cool
+small features that I like that I probably wouldn't have noticed before.
+
+REDDIT:
+After obtaining some design experience, there are now certain design characteristics of this site that I've noticed that I don't like, such as
+they way replies to comments are formatted. While I do still like the site, I feel like there are easy changes that could be made to some
+features on it that would make this site more appealing.
+
+AMAZON:
+My opinion of Amazon hasn't changed much. I still really like the site and its layout. My main complaint from before was that it didn't take
+PayPal, and to my knowledge, it still doesn't. Apparently, this is because of competition-based reasons, but I still would like to see them accept
+PayPal.
+
+MY WEBSITES:
+Overall, the criteria I used to judge websites at the start of the term were layout and ease-of-use. What I liked, and what I still like, are websites
+that have a simple layout and are simple to navigate and use. That being said, I do not like my assignment for assignments 1-3, the travel-
+based one. I think that the design is very ugly and nothing blends very well together. Even though it is only a single webpage, I'd imagine
+navigating a multi-page site that looks like that would be terrible. However, I do really like my Javascript demo site for assignment 4. I think
+that it has a clean, though not the prettiest, layout and I think that it's easy to use, as all of the features are activated by very noticable
+buttons. I also like the clean, simple layout of my animations webpage. I can't really say that I liked my site for assignment 5, as there was
+almost nothing displayed, but that was because the topic of assignment 5 was server-side scripting, not design.
